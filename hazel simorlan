@@ -48,7 +48,7 @@ Here are a few projects I've worked on during my studies:
 """)
 
 # Section: Goals
-st.header("My Goals 🎯")
+st.header("My Goals ")
 st.write("""
 - **Short-Term Goal**: [Your short-term goal, e.g., "Complete my current semester with a high GPA."]
 - **Long-Term Goal**: [Your long-term career goal, e.g., "Become a software engineer and work on AI-driven applications."]
