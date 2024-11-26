@@ -24,7 +24,7 @@ st.write("""
 
 # Section: Interests
 st.header("My Interests 💡")
-I am passionate about several topics and activities, including:
+I am passionate about several topics and activities, to do:
 - **[Interest 1]**: (e.g., Web Development, Machine Learning, Software Engineering)
 
 
