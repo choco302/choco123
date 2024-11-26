@@ -4,7 +4,7 @@ import streamlit as st
 st.title("Student Biography: [Hazel D. simorlan]")
 
 # Add an image (you can replace the URL with your own image)
-st.image("ZEL", caption="Student Profile", width=150)
+st.image("ZEL", caption="Student Profile", width=200)
 
 # Section: Introduction
 st.header("Hello! I'm [Hazel D. Simorlan] 👋")
