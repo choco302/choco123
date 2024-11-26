@@ -1,4 +1,4 @@
-
+important streamlit as st
 
 # Set the title of the app
 st.title("Student Biography: [Hazel D. simorlan]")
