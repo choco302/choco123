@@ -25,8 +25,17 @@ st.write("""
 # Section: Interests
 st.header("My Interests 💡")
 st.header("I am passionate about several topics and activities 💡")
-- **[Interest 1]**: (e.g., Web Development, Machine Learning, Software Engineering)
-
+st.write("""
+I have a variety of interests that I actively pursue. These include:
+""")
+# List of passions
+st.write("""
+- **Web Development**: I love building interactive and dynamic websites using technologies like JavaScript, React, and Node.js.
+- **Machine Learning**: I am passionate about teaching machines to learn from data and apply algorithms to make predictions and solve problems.
+- **Photography**: Capturing moments through photography is one of my hobbies. I enjoy both landscape and portrait photography.
+- **Traveling**: Exploring new cultures and traveling around the world is something that inspires me and helps me broaden my horizons.
+- **Music**: I play the guitar and enjoy composing music in my spare time.
+""")
 
 # Section: Skills
 st.header("Skills 🛠️")
