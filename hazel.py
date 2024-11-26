@@ -64,7 +64,6 @@ Feel free to reach out to me:
 
 # Add some interactivity (optional)
 st.sidebar.header("Personal Details")
-st.sidebar.write("""
 - **Date of Birth**: [september 11 2006]
 - **Hobbies**: [, e.g., "reading, Coding, exploring in social media"]
 
