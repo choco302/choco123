@@ -41,7 +41,7 @@ I have developed a range of technical and soft skills, including:
 # Section: Projects
 st.header("My Projects 🔧")
 st.write("""
-Here are a few projects I've worked on during my studies:
+"Here are a few projects I've worked on during my studies"
 - **[Project 1]**: [Brief Description of the Project]. Technologies used: [e.g., Python, Flask, PostgreSQL].
 - **[Project 2]**: [Brief Description of the Project]. Technologies used: [e.g., JavaScript, Node.js, MongoDB].
 - **[Project 3]**: [Brief Description of the Project]. Technologies used: [e.g., TensorFlow, Keras, Python].
