@@ -68,4 +68,4 @@ st.sidebar.header("Personal Details")
 st.sidebar.write("""
 - **Date of Birth**: [september 11 2006]
 - **Hobbies**: [, e.g., "reading, Coding, exploring in social media"]
-""")
+
